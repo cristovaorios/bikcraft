@@ -71,12 +71,12 @@
   background-color: currentColor;
   margin-top: 4px;
   position: absolute;
-  transition: 0.2s;
+  transition: 0.4s;
 }
 
 .link:hover::after {
   width: 100%;
-  transition: 0.2s;
+  transition: 0.4s;
 }
 
 @media (max-width: 800px) {
