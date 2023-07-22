@@ -21,3 +21,6 @@
 
 @import "./seguros/perguntas.css";
 @import "./seguros/vantagens.css";
+
+@import "./bicicleta/bicicleta.css";
+@import "./bicicleta/seguro.css";
